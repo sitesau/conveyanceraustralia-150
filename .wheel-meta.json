@@ -1,0 +1,22 @@
+{
+  "wheel_id": 472,
+  "structure": "umbrella",
+  "slug": "conveyanceraustralia-150",
+  "project": "conveyancing-services-brisbane-myths-d58ea0de900ac7524cbb6ef64d",
+  "parent_t1_ref": "conveyanceraustralia-009",
+  "node_role": "buffer",
+  "money_target": "conveyanceraustralia.com.au",
+  "primary_kw": "conveyancing services brisbane myths",
+  "intended_url": "https://aumedia.neocities.org/conveyancing-services-brisbane-myths-d58ea0de900ac7524cbb6ef64d/",
+  "tier": "T2",
+  "writeback_nonce": "51d84b970199524f",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/conveyancing-services-brisbane-009/",
+      "anchor": "https://sites-e470-1.web.app/conveyancing-services-brisbane-009/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
